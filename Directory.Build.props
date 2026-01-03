@@ -1,0 +1,9 @@
+﻿<Project>
+	<PropertyGroup>
+		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<NoWarn>$(NoWarn);CS9107;CA1859;NU1507;S1135;S3604;S3925</NoWarn>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+</Project>

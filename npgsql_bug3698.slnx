@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+  </Folder>
+  <Project Path="DataLayer/DataLayer.csproj" Id="5b959a85-cc55-4061-954a-c11dfba70a31" />
+  <Project Path="dotnet10/dotnet10.csproj" Id="f1f8e2f3-8ab5-4218-ba64-8472ca68af43" />
+  <Project Path="dotnet9/dotnet9.csproj" Id="31fcbe61-c39d-4524-9db0-8f2321831407" />
+</Solution>
